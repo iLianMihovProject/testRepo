@@ -1,0 +1,3 @@
+function SomeFunc(){
+    console.log(this file has function from br-1);
+}
